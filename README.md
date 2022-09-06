@@ -1,4 +1,6 @@
-Welcome to My Portflio Repo. 
+Print("Hello World!")
+
+Welcome to My Portfolio Repo. 
 
 Here you will find some basic project that allows me to show my skills in SQL and Python. 
 
